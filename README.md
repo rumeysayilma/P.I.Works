@@ -6,6 +6,8 @@
 
 - ## HEADER(Menu->"*`+New User`*" button, Hide/Show Disabled User Option)
 
+  <!--Clicking the "+New user" button opens new page for new user registration-->
+
 - ## 4 column table section(ID, User Name, Email, Enabled):
 
   <!--Columns in the table can be filtered and sorted-->
@@ -31,6 +33,8 @@
   | **Phone:**        |                        |
   | **Email:**        |                        |
   | **User Roles:**   | `Select user roles...` |
+
+  <!--"Select user roles" has three options--> Guest / Admin / Super Admin
 
   > - [ ] ## 		Enabled			<!--Selectable box-->			
 
