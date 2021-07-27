@@ -6,11 +6,11 @@
 
 - ## HEADER(Menu->"*`+New User`*" button, Hide/Show Disabled User Option)
 
-  <!--Clicking the "+New user" button opens new page for new user registration-->
+  *Clicking the "+New user" button opens new page for new user registration*
 
 - ## 4 column table section(ID, User Name, Email, Enabled):
 
-  <!--Columns in the table can be filtered and sorted-->
+  *Columns in the table can be filtered and sorted*
 
   | `ID` | `User Name` |       `Email`        | `Enabled` |
   | :--: | :---------: | :------------------: | :-------: |
@@ -34,7 +34,7 @@
   | **Email:**        |                        |
   | **User Roles:**   | `Select user roles...` |
 
-  <!--"Select user roles" has three options--> Guest / Admin / Super Admin
+  *"Select user roles" has three options* Guest / Admin / Super Admin
 
-  > - [ ] ## 		Enabled			<!--Selectable box-->			
+  > - [ ] ## 		Enabled						*Selectable box*		
 
